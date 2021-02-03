@@ -48,8 +48,8 @@
         "gamma": 0.95,
         "soft_max_scaling": 0.1,
         "use_global_local": true,
-        "global_map_scaling": 3,
-        "local_map_size": 17,
+        "global_map_scaling": 10,
+        "local_map_size": 34,
         "print_summary": false
     },
     "physics_params": {
